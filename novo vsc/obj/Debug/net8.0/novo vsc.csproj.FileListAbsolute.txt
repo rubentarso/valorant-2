@@ -1,0 +1,14 @@
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\bin\Debug\net8.0\novo vsc.exe
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\bin\Debug\net8.0\novo vsc.deps.json
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\bin\Debug\net8.0\novo vsc.runtimeconfig.json
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\bin\Debug\net8.0\novo vsc.dll
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\bin\Debug\net8.0\novo vsc.pdb
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.AssemblyInfoInputs.cache
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.AssemblyInfo.cs
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.csproj.CoreCompileInputs.cache
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.dll
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\refint\novo vsc.dll
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.pdb
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\novo vsc.genruntimeconfig.cache
+D:\Users\20241170150009\OneDrive - IFRN\novo vsc\obj\Debug\net8.0\ref\novo vsc.dll
